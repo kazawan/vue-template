@@ -1,7 +1,7 @@
 #  :spiral_notepad:kaza Vue3 + Element Plus + Element icon + Axios V1.1.2
 🗨️自用学习仓库
 
-![](https://img.shields.io/badge/版本-v1.1.2)
+![](https://img.shields.io/badge/版本-v1.1.2-#ff00ff)
 * ✍️20230107 更新Element plus icon 按需引入
 * ✍️增加Axios 引入
 
